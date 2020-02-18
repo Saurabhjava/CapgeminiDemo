@@ -1,3 +1,7 @@
 First.
+<<<<<<< HEAD
 Second.
 Feature1
+=======
+Second.
+>>>>>>> 53a92a8cc5f13e5d5e09e3aea23d479533cf7d61
